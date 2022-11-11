@@ -4,7 +4,12 @@
 
 <img src="svg.svg" width="50%" height="50%" />
 
+Fork from https://github.com/ivpusic/react-native-image-crop-picker
 iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
+Change:
+1.用户在选择图片时直接打开最近添加相簿，减少图片选择步骤
+2.增加用户无相册权限、未请求权限时的错误码callback
+3.增加完成按钮
 
 ## Result
 

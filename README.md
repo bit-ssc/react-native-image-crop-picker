@@ -8,13 +8,17 @@ Fork from https://github.com/ivpusic/react-native-image-crop-picker
 
 iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
 
-Change:
+
+<font color=green>Change:
 1. Users can directly open the recently added album when selecting pictures, reducing the steps of picture selection
 2. Increase the error code callback when the user has no album permission or has not requested permission
-3. Add finish button, selected pictures button, etc. to improve user experience
+3. Add finish button, selected pictures button, etc. to improve user experience</font>
+
 
 1.用户在选择图片时直接打开最近添加相簿，减少图片选择步骤
+
 2.增加用户无相册权限、未请求权限时的错误码callback
+
 3.增加完成按钮，已选张数按钮等，提升用户体验
 
 ## Result
